@@ -1,0 +1,5 @@
+1#
+    LOAD A
+    ADD B
+    STORE C
+MEND

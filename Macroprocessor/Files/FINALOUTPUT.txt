@@ -1,0 +1,10 @@
+START 2000
+READ A
+    LOAD A
+    ADD B
+    STORE C
+ENDP
+A DB 01
+B DB 02
+C DB ?
+END
